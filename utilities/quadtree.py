@@ -3,14 +3,10 @@ from copy import copy
 
 from utilities.shapes import Rectangle
 
-""""
+"""
 Class Quadtree(): Creates a quadtree for a list of objects (with coordinates) that will enable a more
 efficient object look-up. A quadtree makes it possible to look for objects only within a certain area
 (coordinate plane) instead of iterating though all of the objects in the entire map, as one would do with list.
-
-Resources:
-https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det
-https://www.cs.cmu.edu/afs/cs/user/glmiller/public/computational-geometry/15-852-F12/Handouts/Har-Peled-Chap2.pdf
 """
 
 
