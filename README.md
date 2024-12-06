@@ -1,5 +1,9 @@
-# Beneath-the-Surface
+# Beneath the Surface
 
-This was me and my teammate's final school project for our python programming class meant to showcase our skills.
+This game was created by me and my project partner in Python through the use of the Pygame-ce module. We named it "Beneath the Surface" and it was built from the base up- that is to say, from scratch.
+The motivation behind this project was to showcase our programming skills in our programming class as a sort of final school project.
 
-Does not as of this moment include the map nor the assets used in the project - only the code has been uploaded!
+Only the code has been uploaded to this repository, meaning that it does not contain the map nor the assets that were created/used. Instead, however, there is a video below that showcases part of the project. ^^
+
+https://github.com/user-attachments/assets/7dc6511a-b759-4e70-99a2-6c88ac9e04b0
+
