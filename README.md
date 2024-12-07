@@ -1,5 +1,7 @@
 # Beneath the Surface
 
+Developers: Kalvetua & Blepk
+
 This game was created by me and my project partner in Python through the use of the Pygame-ce module. We named it "Beneath the Surface" and it was built from the base up- that is to say, from scratch.
 The motivation behind this project was to showcase our programming skills in our programming class as a sort of final school project.
 
